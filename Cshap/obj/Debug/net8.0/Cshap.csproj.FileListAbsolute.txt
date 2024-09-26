@@ -1,0 +1,17 @@
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\obj\Debug\net8.0\Cshap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\obj\Debug\net8.0\Cshap.AssemblyInfoInputs.cache
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\obj\Debug\net8.0\Cshap.AssemblyInfo.cs
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\obj\Debug\net8.0\Cshap.csproj.CoreCompileInputs.cache
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\bin\Debug\net8.0\Cshap.exe
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\bin\Debug\net8.0\Cshap.deps.json
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\bin\Debug\net8.0\Cshap.runtimeconfig.json
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\bin\Debug\net8.0\Cshap.dll
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\bin\Debug\net8.0\Cshap.pdb
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\obj\Debug\net8.0\Cshap.dll
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\obj\Debug\net8.0\refint\Cshap.dll
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\obj\Debug\net8.0\Cshap.pdb
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\obj\Debug\net8.0\Cshap.genruntimeconfig.cache
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\obj\Debug\net8.0\ref\Cshap.dll
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\obj\Debug\net8.0\Cshap.csproj.AssemblyReference.cache
+C:\Users\k.dao.ngoc.thanh\Desktop\myProject\Cshap\obj\Debug\net8.0\Cshap.csproj.Up2Date

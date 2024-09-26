@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Danh Sách Sản Phẩm</title>
+</head>
+<body>
+    <h1>Danh Sách Sản Phẩm</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Tên Sản Phẩm</th>
+                <th>Giá</th>
+            </tr>
+        </thead>
+        <tbody>
+            <% products.forEach(product => { %>
+            <tr>
+                <td><%= product.id %></td>
+                <td><%= product.name %></td>
+                <td><%= product.price %></td>
+            </tr>
+            <% }) %>
+        </tbody>
+    </table>
+    <a href="/">Quay lại trang chủ</a>
+</body>
+</html>

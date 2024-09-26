@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Name": "thanhmessi",
+    "Price": 1500.0,
+    "Quantity": 2
+  },
+  {
+    "Id": 1,
+    "Name": "messi123",
+    "Price": 222.0,
+    "Quantity": 2
+  },
+  {
+    "Id": 1,
+    "Name": "thanhdaongoc",
+    "Price": 2000.0,
+    "Quantity": 2
+  },
+  {
+    "Id": 1,
+    "Name": "macbookPro2020",
+    "Price": 89000.0,
+    "Quantity": 1
+  },
+  {
+    "Id": 2,
+    "Name": "abc",
+    "Price": 2.0,
+    "Quantity": 1
+  },
+  {
+    "Id": 3,
+    "Name": "toilaai",
+    "Price": 2.0,
+    "Quantity": 1
+  },
+  {
+    "Id": 4,
+    "Name": "mmamamma",
+    "Price": 2000.0,
+    "Quantity": 2
+  },
+  {
+    "Id": 5,
+    "Name": "dongtimo",
+    "Price": 2000.0,
+    "Quantity": 1
+  }
+]

@@ -1,0 +1,18 @@
+/* global */
+:root {
+--text-color:red;
+}
+
+h1 {
+    color: var(--text-color);
+
+}
+
+h2{
+    --text-color2:green;
+    color:var(--text-color2);
+}
+
+h3{
+        color:var(--text-color2);
+}
